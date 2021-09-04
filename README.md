@@ -39,6 +39,9 @@ The analysis of the election show that:
 - The county with the largest turnout of voters:
     - Denver, with 306,055 which produced 82.8% of the votes   
 
+![Election_results_screenshot](https://user-images.githubusercontent.com/88256967/132109269-2e942b29-94d8-4def-b29c-5b95f48894b2.PNG)
+
+
 ## Election-Audit Summary
 
 I would propose that the script be modified to run different tasks in the future. One task can be to include the age, sex, and ethnicity of the candidates to better understand the voters in the area and which groups appeal to which candidates. Another task could be to break down the election results by zip code or by city to better define the county results. In order to conduct the tasks suggested more data would need to be collected and added to the .csv file to run scripts and generate results for new observations.
